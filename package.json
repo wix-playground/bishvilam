@@ -1,7 +1,7 @@
 {
-  "name": "bisvilam",
-  "homepage": "https://wix-playground.github.io/bisvilam",
+  "name": "bishvilam",
   "private": true,
+  "homepage": "https://wix-playground.github.io/bishvilam",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -37,3 +37,4 @@
     "vite": "^7.2.4"
   }
 }
+
