@@ -1,6 +1,6 @@
 {
   "name": "bisvilam",
-  "homepage": "https://yuval1488.github.io/bisvilam",
+  "homepage": "https://wix-playground.github.io/bisvilam",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@types/leaflet": "^1.9.21",
